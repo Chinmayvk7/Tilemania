@@ -97,9 +97,9 @@ It focuses on modular gameplay systems, fluid character control, and AI-driven d
 
 🕹️ Controls
 
-A / D – Move Left / Right
+A / ← Arrow - Move Left
 
-Left/ right arrows - Move Left / Right
+D / → Arrow - Move Right
 
 Space – Jump
 
